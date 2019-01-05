@@ -35,3 +35,33 @@ div h2{
   width: 20%;
   margin-left: 70%;
 }
+
+@media screen and (max-width: 1000px){
+
+  header img{
+    width: 20%;
+  }
+
+  header a{
+    font-size: 400%;
+  }
+
+  div{
+    margin: 0;
+  }
+
+  div h2{
+    font-size: 400%;
+  }
+
+  #um{
+    width: 100%;
+    margin-left: 0;
+  }
+
+  #dois{
+    width: 100%;
+    margin-left: 0;
+  }
+}
+
