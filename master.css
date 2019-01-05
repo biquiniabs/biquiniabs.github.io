@@ -1,0 +1,37 @@
+body{
+  margin: 0;
+  background-image: url(../img/backgroud.png);
+}
+
+header{
+  width: 100%;
+  background-color: #EACED2;
+}
+
+a{
+  color: #000;
+  font-size: 200%;
+  float: right;
+  margin-right: 1%;
+  margin-top: 2%;
+}
+
+div{
+  background-color: rgba(255, 255, 255, 0.8);
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+div h2{
+  text-align: center;
+}
+
+#um{
+  width: 20%;
+  margin-left: 10%;
+}
+
+#dois{
+  width: 20%;
+  margin-left: 70%;
+}
